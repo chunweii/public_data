@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phaseTesterResponse"],
+  "openPhases" : ["phaseBugReporting"],
   "phaseBugReporting": "catcher-bug-tester",
   "phaseTeamResponse": "catcher-bug-tester",
   "phaseTesterResponse": "catcher-bug-tester",
